@@ -1,0 +1,130 @@
+* {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	box-sizing: border-box;
+	text-decoration: none !important;
+	list-style-type: none;
+}
+
+.header__nav {
+	display: flex;
+	justify-content: space-between;
+	max-width: 400px;
+	width: 100%;
+}
+
+.header__nav li a {
+	color: black;
+}
+
+.dog h1 {
+	font-size: 70px;
+	margin-top: 100px;
+	font-weight: 700;
+	line-height: 120px;
+	color: #170C04;
+}
+
+
+
+.row .header__buutons .buuton1, .buuton2 {
+	border-radius: 50px;
+}
+
+
+
+main .card-body h2 {
+	text-align: center;
+}
+
+main .main {
+	margin-top: 200px;
+}
+
+main .main:hover{
+	background: #e27a3a54;
+
+}
+
+main .main img {
+	width: 50px;
+	height: 40px;
+	position: relative;
+	margin-left: 155px;
+	padding: 0px 0px 0px 10px;
+}
+
+main .main p {
+	text-align: center;
+}
+
+main .main a {
+	margin-left: 115px;
+	color: black;
+}
+
+
+
+.container .row .h2 {
+	text-align: center;
+	margin-top: 130px;
+}
+
+.container .row .p {
+	text-align: center;
+}
+
+
+.main__card {
+	background: #FCF2EB;
+	height: 350px;
+
+}
+
+.lg2 h2{
+	text-align: center;
+}
+.lg2 a {
+	margin: 0px 0px 0px 225px;
+	color: #E27B3A;
+}
+
+
+.lg4 h2{
+	text-align: center;
+}
+.lg4 a {
+	margin: 0px 0px 0px 140px;
+	color: #E27B3A;
+}
+
+
+
+
+.lg7 img {
+	background: url(<path-to-image>), lightgray 0px -7.935px / 100% 102.944% no-repeat;
+}
+
+
+
+
+
+
+.lg10 h4 {
+	margin-top: 50px;
+	margin-left: -30px;
+	text-align: center;
+}
+
+
+.lg10 p {
+	text-align: center;
+	opacity: 0.6;	
+}
+
+.lg10 a {
+	color: #E27B3A;
+	text-align: center;
+	margin-left: 135px;
+}
