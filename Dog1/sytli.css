@@ -1,0 +1,32 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	list-style-type: none;
+}
+header{
+	max-width: 100%;
+	height: auto;
+}
+header nav{
+	max-width: 80%;
+	height: auto;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+}
+nav{
+	display: flex;
+}
+nav ul{
+	display: flex;
+	gap: 55px;
+}
+.logo{
+	margin-right: 291px;
+}
+ul img{
+	margin-left: 235px;
+}
+header nav .box{
+}
